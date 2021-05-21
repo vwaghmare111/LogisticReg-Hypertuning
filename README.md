@@ -1,1 +1,1 @@
-# LogisticReg-Hypertuning
+Objective of this task was to hyper tuning of Logistic Regression for binary and multiclass classification. Wisconsin Breast Cancer for binary classification and Mnist dataset for multiclass classification was used.
